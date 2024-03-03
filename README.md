@@ -18,7 +18,7 @@ scripts directory contains scripts used in the project. Tools directory includes
 3. run command $ Scripts\active
 4. CD to simulator/scripts
 5. run scripts of choice e.g. $ python main.py
-5.run command $ deactivate
+6. run command $ deactivate
 	to deactivate virtual environment
 
 
