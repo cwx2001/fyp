@@ -11,7 +11,7 @@ routes directory contains .xml files for traffic demand elements <br />
 scripts directory contains scripts used in the project. Tools directory includes the plot.py and randomTrips.py scripts which are provided by the SUMO-RL library and SUMO software respectively.
 
 
-# Setting up (Windows 10)
+# Setting up (Windows 10 Stable Release)
 
 1. install virtualenv with pip install virtualenv
 2. CD to capstone_project2
