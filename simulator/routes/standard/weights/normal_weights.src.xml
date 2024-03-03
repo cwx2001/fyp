@@ -1,0 +1,16 @@
+<edgedata>
+    <interval id="src" begin="0" end="100000.0">
+        <edge id="E3" value="100.00"/>
+        <edge id="E2" value="100.00"/>
+        <edge id="E1" value="100.00"/>
+        <edge id="E0" value="100.00"/>
+        <edge id="R4" value="0.00"/>
+        <edge id="R3" value="0.00"/>
+        <edge id="R2" value="0.00"/>
+        <edge id="R1" value="0.00"/>
+        <edge id="-E3" value="0.00"/>
+        <edge id="-E2" value="0.00"/>
+        <edge id="-E1" value="0.00"/>
+        <edge id="-E0" value="0.00"/>
+    </interval>
+</edgedata>
