@@ -5,10 +5,10 @@ This project utilizes the SUMO simulation package to simulate traffic environmen
 
 # Contents
 
-net directory contains .xml files for traffic environments
-result directory contains .csv and .png files of simulation results
-routes directory contains .xml files for traffic demand elements
-scripts directory contains scripts used in the project. Tools directory includes the plot.py and randomTrips.py scripts which are provided by the SUMO-RL library and SUMO software respectively.
+## net directory contains .xml files for traffic environments
+## result directory contains .csv and .png files of simulation results
+## routes directory contains .xml files for traffic demand elements
+## scripts directory contains scripts used in the project. Tools directory includes the plot.py and randomTrips.py scripts which are provided by the SUMO-RL library and SUMO software respectively.
 
 
 # Setting up (Windows 10)
